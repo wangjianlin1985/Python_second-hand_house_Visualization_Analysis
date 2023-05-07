@@ -1,0 +1,1208 @@
+2020-07-25 01:56:23,092 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 01:56:24,059 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:24,192 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 01:56:24,192 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 01:56:24,192 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 01:56:24,192 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 01:56:24,192 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110145800.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 01:56:24,193 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 01:56:24,194 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110278974.html
+2020-07-25 01:56:24,195 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 01:56:24,195 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:26,196 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 01:56:26,930 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:27,091 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 01:56:27,091 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 01:56:27,091 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 01:56:27,092 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110149735.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 01:56:27,093 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 01:56:27,094 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107020587.html
+2020-07-25 01:56:27,094 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:27,094 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg3/
+2020-07-25 01:56:27,812 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:27,949 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108137676.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108196171.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109409260.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109452800.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109732584.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109733224.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110138299.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110140741.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110150489.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110162136.html
+2020-07-25 01:56:27,950 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110178092.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110206840.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110214991.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110225537.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110234338.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110241310.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110260304.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110267207.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110092160.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107812.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110124243.html
+2020-07-25 01:56:27,951 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104619111.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105384442.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106397166.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106883226.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107619175.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108848774.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109847467.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110192322.html
+2020-07-25 01:56:27,952 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110217666.html
+2020-07-25 01:56:27,952 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:28,953 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg4/
+2020-07-25 01:56:29,997 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110244099.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110286972.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110297499.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110332238.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343876.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105590080.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110116639.html
+2020-07-25 01:56:30,162 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110164409.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198961.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878668.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107358834.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109473747.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109750110.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110363057.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110382233.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109977729.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110001416.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110006063.html
+2020-07-25 01:56:30,163 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110052279.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110088482.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110096602.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110100908.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110111687.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133933.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110145492.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107243705.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108933555.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109074502.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109907426.html
+2020-07-25 01:56:30,164 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109929714.html
+2020-07-25 01:56:30,164 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:30,165 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg5/
+2020-07-25 01:56:30,924 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:31,057 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109945258.html
+2020-07-25 01:56:31,057 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987201.html
+2020-07-25 01:56:31,057 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110084763.html
+2020-07-25 01:56:31,057 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105921230.html
+2020-07-25 01:56:31,057 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109980932.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110073657.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110076055.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105272414.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105308093.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105306289.html
+2020-07-25 01:56:31,058 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105448065.html
+2020-07-25 01:56:31,059 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106547711.html
+2020-07-25 01:56:31,059 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106895530.html
+2020-07-25 01:56:31,059 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107661813.html
+2020-07-25 01:56:31,059 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108033431.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108560400.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108925321.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109418248.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109568680.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109638685.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109706234.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110154203.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110158249.html
+2020-07-25 01:56:31,060 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110272002.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110283185.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110283778.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104042302.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103218991.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105443567.html
+2020-07-25 01:56:31,061 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105739924.html
+2020-07-25 01:56:31,061 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:31,062 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg6/
+2020-07-25 01:56:31,793 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:31,936 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106689561.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107709251.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107808295.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108190377.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108297209.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108534004.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108595161.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108790265.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109065528.html
+2020-07-25 01:56:31,937 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109375319.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109379529.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109735956.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109861354.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109907199.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105606900.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108837845.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109185718.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110150059.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110154011.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110182214.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106608916.html
+2020-07-25 01:56:31,938 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108497829.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108826406.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109361785.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109439810.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109750606.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109814094.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110308498.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104811401.html
+2020-07-25 01:56:31,939 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108049699.html
+2020-07-25 01:56:31,939 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:33,939 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg7/
+2020-07-25 01:56:34,719 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109040100.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109328876.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109589581.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109712260.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109731546.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109846449.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109894107.html
+2020-07-25 01:56:34,858 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109895332.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109898257.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109922730.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109924271.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109955095.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109963883.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109969116.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110058415.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110070331.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110087787.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110099140.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107833.html
+2020-07-25 01:56:34,859 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110134400.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110141804.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110146865.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110265870.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108376423.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109971866.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110138546.html
+2020-07-25 01:56:34,860 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110150471.html
+2020-07-25 01:56:34,861 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110169898.html
+2020-07-25 01:56:34,861 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104067799.html
+2020-07-25 01:56:34,861 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102822600.html
+2020-07-25 01:56:34,861 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:36,861 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg8/
+2020-07-25 01:56:37,590 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104958947.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105378793.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105502984.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107584684.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107947621.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108304274.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108403647.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108406480.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108415964.html
+2020-07-25 01:56:37,716 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108465204.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108688601.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108945671.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109023439.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109117715.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109180955.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109248287.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109263297.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109276659.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109290636.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109354717.html
+2020-07-25 01:56:37,717 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109389136.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109403497.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109568154.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109752593.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109836820.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105919102.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106574940.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106930839.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107136670.html
+2020-07-25 01:56:37,718 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107791822.html
+2020-07-25 01:56:37,718 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:37,718 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg9/
+2020-07-25 01:56:38,444 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:38,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108019306.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108337658.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108432852.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108526463.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108750857.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108919693.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108942166.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109077532.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109206825.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109235005.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109326843.html
+2020-07-25 01:56:38,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109335002.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109380813.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109423306.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109486667.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109595677.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109667899.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109676350.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109709587.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109757902.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109798141.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109825559.html
+2020-07-25 01:56:38,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109827285.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109829877.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109847840.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104603179.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110210672.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107304836.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108392144.html
+2020-07-25 01:56:38,589 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108402981.html
+2020-07-25 01:56:38,589 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:41,590 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg10/
+2020-07-25 01:56:42,441 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108404571.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108497720.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109003543.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109231636.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109574772.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109616792.html
+2020-07-25 01:56:42,595 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109625894.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109631610.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109732134.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109803848.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110048575.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110073306.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106573644.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108033694.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105698364.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107934604.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108291484.html
+2020-07-25 01:56:42,596 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108911278.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109368502.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109918590.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109920579.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110090052.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105277661.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105548660.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105849913.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106044066.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106301264.html
+2020-07-25 01:56:42,597 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106523923.html
+2020-07-25 01:56:42,598 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106910935.html
+2020-07-25 01:56:42,598 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107301080.html
+2020-07-25 01:56:42,598 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:44,598 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg11/
+2020-07-25 01:56:45,643 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:45,763 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107435558.html
+2020-07-25 01:56:45,763 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107478471.html
+2020-07-25 01:56:45,763 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107527066.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107901338.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107969094.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108002016.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108009544.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108059550.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108130773.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108175534.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108227169.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108290872.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108437207.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108442164.html
+2020-07-25 01:56:45,764 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108569836.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108686271.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108720649.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108801870.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108907288.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108953948.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109063569.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109076335.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109076559.html
+2020-07-25 01:56:45,765 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109100758.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109127927.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109185064.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109193248.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109267210.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109327684.html
+2020-07-25 01:56:45,766 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109330479.html
+2020-07-25 01:56:45,766 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:48,766 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg12/
+2020-07-25 01:56:49,546 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109369475.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109371673.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109420484.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109459127.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109501500.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109516076.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109574888.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109617381.html
+2020-07-25 01:56:49,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109663891.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109703880.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109709528.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109749999.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109788242.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109797821.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109801615.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104570102.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106047361.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107389573.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107916594.html
+2020-07-25 01:56:49,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108225192.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108658489.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109136033.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109321760.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109566621.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109593507.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109676504.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109679526.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109730697.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 01:56:49,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108209801.html
+2020-07-25 01:56:49,675 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:50,676 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg13/
+2020-07-25 01:56:51,434 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:51,573 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108278210.html
+2020-07-25 01:56:51,573 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109568157.html
+2020-07-25 01:56:51,573 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105851361.html
+2020-07-25 01:56:51,573 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106072290.html
+2020-07-25 01:56:51,573 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106832863.html
+2020-07-25 01:56:51,574 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103106860149.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107338011.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107341602.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107495761.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107898245.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108134329.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108258023.html
+2020-07-25 01:56:51,575 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108422840.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108449104.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108499831.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108819555.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109008807.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109750258.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109832671.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102820978.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102394337.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110317241.html
+2020-07-25 01:56:51,576 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303659.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104340744.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110140778.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105515815.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110360009.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110190481.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110379868.html
+2020-07-25 01:56:51,577 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110275210.html
+2020-07-25 01:56:51,577 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:54,577 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg14/
+2020-07-25 01:56:55,345 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:55,481 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110115800.html
+2020-07-25 01:56:55,481 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110231369.html
+2020-07-25 01:56:55,481 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110284899.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107368030.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109998321.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110001658.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110062107.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108734756.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109275286.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109851268.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109855659.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110144590.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102665995.html
+2020-07-25 01:56:55,482 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104261915.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104613390.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110320346.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110299043.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110186764.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103356844.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110333299.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103100937473.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101998117.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103027892.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103730256.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104731712.html
+2020-07-25 01:56:55,483 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109911421.html
+2020-07-25 01:56:55,484 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110084432.html
+2020-07-25 01:56:55,484 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110084966.html
+2020-07-25 01:56:55,484 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110102030.html
+2020-07-25 01:56:55,484 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117564.html
+2020-07-25 01:56:55,484 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:56,484 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg15/
+2020-07-25 01:56:57,245 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103100787980.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101577287.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101663155.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101903364.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102518609.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102627045.html
+2020-07-25 01:56:57,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103447523.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103753178.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103100267072.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101963773.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103195401.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104747243.html
+2020-07-25 01:56:57,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104277876.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107838432.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109349740.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109954116.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102558376.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104208402.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104672243.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200587.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110255313.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110315724.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110318128.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102041903.html
+2020-07-25 01:56:57,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102551498.html
+2020-07-25 01:56:57,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110099253.html
+2020-07-25 01:56:57,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104619870.html
+2020-07-25 01:56:57,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110162665.html
+2020-07-25 01:56:57,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110223966.html
+2020-07-25 01:56:57,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110230713.html
+2020-07-25 01:56:57,390 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:56:59,390 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg16/
+2020-07-25 01:57:00,154 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 01:57:00,326 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110243361.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110246575.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110262932.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110271758.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110287337.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306207.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110320580.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110347260.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110175167.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110202947.html
+2020-07-25 01:57:00,327 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104320870.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104583723.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104664958.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105909456.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108093106.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103921148.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102794339.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104062507.html
+2020-07-25 01:57:00,328 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105717856.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104547797.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309700.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110338278.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110347718.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110354030.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110377740.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110392222.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110210341.html
+2020-07-25 01:57:00,329 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110240261.html
+2020-07-25 01:57:00,330 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250774.html
+2020-07-25 01:57:00,330 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110255780.html
+2020-07-25 01:57:00,330 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 01:57:02,330 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg17/
+2020-07-25 01:57:03,215 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:33:35,999 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:33:36,895 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:33:37,030 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:33:37,030 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:33:37,030 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:33:37,031 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:33:37,032 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:33:37,032 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:33:37,033 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:33:37,034 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:33:37,034 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:33:37,034 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:33:37,826 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:33:37,963 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:33:37,964 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:33:37,965 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:33:37,965 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:33:37,965 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:33:37,965 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:33:37,965 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:33:37,966 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:33:37,966 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:33:37,967 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:33:37,967 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:33:37,967 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:33:37,967 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:33:37,968 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:33:37,968 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:33:37,968 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:33:37,968 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:33:37,968 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:33:37,969 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:33:37,969 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:34:41,481 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:34:42,534 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:34:42,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:34:42,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:34:42,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:34:42,686 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:34:42,686 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:34:42,686 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:34:42,686 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:34:45,687 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:34:46,525 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:34:46,698 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:34:46,698 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:34:46,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:34:46,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:34:46,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:34:46,701 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:36:07,710 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:36:08,544 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:36:08,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:36:08,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:36:08,676 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:36:08,677 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:36:08,677 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:36:12,919 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:36:13,821 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:36:22,830 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:36:23,652 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:36:56,933 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:37:51,655 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:37:52,560 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:37:58,509 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:37:59,231 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:38:04,511 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:38:04,512 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:38:04,512 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:38:04,512 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:38:04,513 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:38:04,513 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:38:04,513 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:38:04,513 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:38:04,513 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:38:04,514 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:38:04,514 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:38:04,514 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:38:04,514 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:38:04,515 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:38:04,515 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:38:04,515 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:38:04,515 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:38:04,515 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:38:04,516 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:38:04,516 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:38:04,516 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:38:04,516 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:38:04,517 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:38:04,517 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:38:04,517 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:38:04,517 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:38:04,517 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:38:04,518 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:38:04,518 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:38:04,518 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:38:04,518 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:38:04,519 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:38:05,294 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:38:10,642 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:38:10,643 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:38:10,643 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:38:10,643 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:38:10,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:38:10,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:38:10,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:38:10,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:38:10,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:38:10,645 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:38:10,645 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:38:10,645 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:38:10,645 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:38:10,646 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:38:10,646 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:38:10,646 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:38:10,646 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:38:10,647 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:38:10,647 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:38:10,647 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:38:10,647 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:38:10,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:38:10,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:38:10,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:38:10,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:38:10,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:38:10,649 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:38:10,649 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:38:10,649 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:38:10,649 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:38:10,649 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:38:49,796 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:38:50,717 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:38:51,217 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:38:51,217 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:38:51,217 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:38:51,218 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:38:51,218 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:38:51,219 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:38:51,220 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:38:51,220 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:38:51,221 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:38:51,221 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:38:51,221 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:38:51,222 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:38:51,222 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:38:51,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:38:51,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:38:51,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:38:51,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:38:51,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:38:51,224 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:38:51,224 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:38:51,225 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:38:51,225 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:38:51,225 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:38:51,226 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:38:51,226 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:38:51,227 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:38:51,227 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:38:51,227 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:38:51,228 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:38:51,228 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:38:51,229 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:38:53,229 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:38:54,006 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:38:54,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:38:54,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:38:54,387 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:38:54,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:38:54,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:38:54,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:38:54,388 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:38:54,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:38:54,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:38:54,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:38:54,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:38:54,389 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:38:54,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:38:54,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:38:54,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:38:54,390 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:38:54,391 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:38:54,391 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:38:54,391 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:38:54,391 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:38:54,391 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:38:54,392 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:38:54,392 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:38:54,392 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:38:54,392 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:38:54,393 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:38:54,393 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:38:54,393 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:38:54,393 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:38:54,394 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:38:54,394 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:39:19,650 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:39:20,431 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:39:24,681 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:39:24,682 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:39:24,683 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:39:24,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:39:24,684 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:39:24,685 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:39:24,686 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:39:24,686 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:39:24,687 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:39:24,688 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:39:24,688 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:39:24,689 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:39:24,689 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:39:24,690 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:39:24,691 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:39:24,692 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:39:24,692 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:39:24,693 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:39:24,694 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:39:24,694 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:39:24,695 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:39:24,696 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:39:24,696 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:39:24,697 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:39:24,697 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:39:24,698 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:39:24,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:39:24,699 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:39:24,700 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:39:24,701 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:39:24,701 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:39:40,511 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:39:44,250 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:39:45,229 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:39:47,642 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:39:47,643 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:39:47,644 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:39:47,645 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:39:47,646 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:39:47,648 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:39:47,649 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:39:47,650 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:39:47,651 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:39:47,652 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:39:47,653 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:39:47,655 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:39:47,657 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:39:47,658 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:39:47,659 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:39:47,660 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:39:47,661 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:39:47,662 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:39:47,663 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:39:47,665 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:39:47,667 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:39:47,668 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:39:47,669 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:39:47,669 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:39:47,671 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:39:47,671 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:39:47,672 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:39:47,673 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:39:47,674 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:39:47,675 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:39:47,676 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:39:57,076 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:39:59,682 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:40:02,220 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:40:02,221 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:40:02,222 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:40:02,222 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:40:02,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:40:02,223 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:40:02,224 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:40:02,225 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:40:02,225 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:40:02,226 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:40:02,227 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:40:02,227 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:40:02,228 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:40:02,229 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:40:02,229 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:40:02,230 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:40:02,230 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:40:02,231 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:40:02,232 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:40:02,232 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:40:02,233 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:40:02,235 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:40:02,235 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:40:02,236 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:40:02,236 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:40:02,237 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:40:02,238 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:40:02,238 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:40:02,239 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:40:02,239 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:40:02,240 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:41:14,661 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:41:15,403 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:23,408 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg1/
+2020-07-25 15:41:24,219 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:24,581 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110311514.html
+2020-07-25 15:41:24,581 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:41:24,581 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103101952689.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:41:24,582 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:41:24,583 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110331740.html
+2020-07-25 15:41:24,583 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:41:24,584 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:41:24,584 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109946424.html
+2020-07-25 15:41:24,584 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:41:24,584 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:41:24,585 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:41:24,585 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:41:24,585 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103102771325.html
+2020-07-25 15:41:24,585 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:41:24,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105091451.html
+2020-07-25 15:41:24,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:41:24,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:41:24,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:41:24,586 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:41:24,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:41:24,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:41:24,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:41:24,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:41:24,587 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:41:24,588 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:41:24,588 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:41:24,588 - spider_main - INFO - 1.1 拼接页面地址：https://nj.lianjia.com/ershoufang/gulou/pg2/
+2020-07-25 15:41:25,556 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:25,924 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:41:25,924 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:41:25,924 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:41:25,925 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:41:25,925 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:41:25,925 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:41:25,925 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:41:25,926 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:41:25,926 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:41:25,926 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108587386.html
+2020-07-25 15:41:25,926 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:41:25,926 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:41:25,927 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:41:25,927 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:41:25,927 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:41:25,927 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:41:25,928 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:41:25,928 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:41:25,928 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:41:25,928 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:41:25,928 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:41:25,929 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110025165.html
+2020-07-25 15:41:25,929 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:41:25,929 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:41:25,929 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:41:25,930 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:41:25,931 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:41:25,931 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:41:25,932 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:41:25,932 - html_parser - INFO - https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:41:25,933 - html_parser - INFO - 1.3 PG页面解析：pg页面解析成功！
+2020-07-25 15:41:29,933 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109997446.html
+2020-07-25 15:41:31,162 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:31,432 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:31,433 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:32,433 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109987488.html
+2020-07-25 15:41:33,583 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:33,808 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:33,809 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:33,809 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110279828.html
+2020-07-25 15:41:34,960 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:35,230 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:35,231 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:37,232 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103105539697.html
+2020-07-25 15:41:38,424 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:38,626 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:38,627 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:41,627 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110357218.html
+2020-07-25 15:41:42,700 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:42,912 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:42,913 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:45,914 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110342626.html
+2020-07-25 15:41:47,083 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:47,350 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:47,351 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:41:50,351 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109834948.html
+2020-07-25 15:41:51,690 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:51,937 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:51,938 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:51,938 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109680061.html
+2020-07-25 15:41:53,027 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:53,252 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:53,252 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:53,253 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110309129.html
+2020-07-25 15:41:54,264 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:54,474 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:54,475 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:54,475 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110306761.html
+2020-07-25 15:41:55,629 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:55,834 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:55,835 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:55,835 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104166204.html
+2020-07-25 15:41:56,956 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:57,183 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:57,184 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:57,184 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104845049.html
+2020-07-25 15:41:58,427 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:41:58,640 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:41:58,641 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:41:58,641 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110385128.html
+2020-07-25 15:41:59,835 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:00,051 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:00,052 - spider_main - ERROR - 2.4 输出数据出现异常:PermissionError(13, 'Permission denied')
+2020-07-25 15:42:00,052 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110310486.html
+2020-07-25 15:42:01,363 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:01,576 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:01,577 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:04,578 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109968487.html
+2020-07-25 15:42:05,697 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:05,896 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:05,897 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:06,899 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110119626.html
+2020-07-25 15:42:08,052 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:08,262 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:08,263 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:08,264 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110257247.html
+2020-07-25 15:42:09,356 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:09,570 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:09,571 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:10,572 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110083259.html
+2020-07-25 15:42:11,875 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:12,097 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:12,098 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:13,099 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109984567.html
+2020-07-25 15:42:14,353 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:14,585 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:14,586 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:14,586 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103103425126.html
+2020-07-25 15:42:15,697 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:15,929 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:15,930 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:15,930 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110200501.html
+2020-07-25 15:42:17,125 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:17,310 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:17,311 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:17,311 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104878669.html
+2020-07-25 15:42:18,485 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:18,695 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:18,696 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:21,697 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104289800.html
+2020-07-25 15:42:22,734 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:22,941 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:22,943 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:22,943 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104760763.html
+2020-07-25 15:42:24,151 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:24,420 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:24,421 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:26,422 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110250079.html
+2020-07-25 15:42:27,689 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:27,902 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:27,903 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:29,903 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110355206.html
+2020-07-25 15:42:31,126 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:31,345 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:31,346 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:31,346 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110089375.html
+2020-07-25 15:42:32,424 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:32,624 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:32,625 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:34,626 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110251083.html
+2020-07-25 15:42:36,001 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:36,238 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:36,239 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:39,240 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110109249.html
+2020-07-25 15:42:40,507 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:40,698 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:40,700 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:42,700 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110369375.html
+2020-07-25 15:42:44,109 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:44,309 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:44,310 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:46,310 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103104155821.html
+2020-07-25 15:42:47,295 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:47,517 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:47,518 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:47,518 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110236770.html
+2020-07-25 15:42:48,630 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:48,834 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:48,836 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:49,837 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110198073.html
+2020-07-25 15:42:51,087 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:51,286 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:51,287 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:52,288 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110247861.html
+2020-07-25 15:42:53,430 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:53,654 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:53,655 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:54,656 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109870495.html
+2020-07-25 15:42:55,709 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:55,898 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:55,899 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:56,900 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110343912.html
+2020-07-25 15:42:58,056 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:42:58,273 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:42:58,274 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:42:59,275 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103107000836.html
+2020-07-25 15:43:00,668 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:00,865 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:00,866 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:00,868 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110057579.html
+2020-07-25 15:43:01,995 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:02,239 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:02,240 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:04,240 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110174978.html
+2020-07-25 15:43:05,286 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:05,546 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:05,547 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:07,548 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103108687614.html
+2020-07-25 15:43:08,731 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:08,928 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:08,929 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:09,929 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110340994.html
+2020-07-25 15:43:11,068 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:11,257 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:11,258 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:14,259 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110027474.html
+2020-07-25 15:43:15,134 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:15,339 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:15,340 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:18,340 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103103687914.html
+2020-07-25 15:43:19,563 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:19,777 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:19,780 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:22,780 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109278989.html
+2020-07-25 15:43:23,878 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:24,119 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:24,120 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:26,121 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110107647.html
+2020-07-25 15:43:27,249 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:27,450 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:27,451 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:30,453 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103109881184.html
+2020-07-25 15:43:31,636 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:31,883 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:31,885 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:32,886 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103107911101.html
+2020-07-25 15:43:34,020 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:34,253 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:34,254 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:34,255 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110133434.html
+2020-07-25 15:43:35,480 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:35,722 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:35,723 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:37,724 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103108303111.html
+2020-07-25 15:43:38,878 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:39,324 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:39,325 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:42,325 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110324932.html
+2020-07-25 15:43:43,446 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:43,628 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:43,629 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:45,630 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110117534.html
+2020-07-25 15:43:46,668 - html_downloader - INFO - 页面下载：成功!
+2020-07-25 15:43:47,212 - html_parser - INFO - 2.3 页面解析(detail)：页面解析成功！
+2020-07-25 15:43:47,214 - html_outputer - INFO - 2.4页面数据收集：成功!
+2020-07-25 15:43:47,217 - spider_main - INFO - 2.1 二手房页面地址：https://nj.lianjia.com/ershoufang/103110165416.html
+2020-07-25 15:43:48,371 - html_downloader - INFO - 页面下载：成功!
